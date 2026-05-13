@@ -20,8 +20,8 @@ A command-line habit tracking application built with Python, SQLite, and Click. 
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd habit-trcl
+git clone <https://github.com/Leenayseen/habittraker>
+cd habittraker
 python -m venv venv
 source venv/bin/activate      # macOS/Linux
 venv\Scripts\activate         # Windows
@@ -114,3 +114,7 @@ data/
 requirements.txt
 README.md
 ```
+
+
+## License
+This project is for academic purposes as part of the IU Applied AI curriculum.
